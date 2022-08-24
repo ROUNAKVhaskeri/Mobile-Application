@@ -1,0 +1,9 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+  color: white;
+  height: 75px;
+  justify-content: center;
+  border-radius: 10px;
+}
